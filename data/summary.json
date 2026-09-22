@@ -1,0 +1,125 @@
+{
+  "data_note": "Deterministic synthetic subscription data; no actual customer records.",
+  "customers": 4800,
+  "retained_12m": 3656,
+  "churned_within_12m": 1144,
+  "retention_rate_12m": 0.7617,
+  "churn_rate_12m": 0.2383,
+  "renewed_annual": 1011,
+  "annual_customers": 1640,
+  "annual_renewal_rate": 0.6165,
+  "value_per_customer_12m_usd": 327.66,
+  "revenue_observed_12m_usd": 1572785.85,
+  "churn_first_3m": 437,
+  "reasons": {
+    "Price": 325,
+    "Low usage": 300,
+    "Changed needs": 98,
+    "Alternative": 210,
+    "Product experience": 154,
+    "Payment issue": 57
+  },
+  "cohorts": {
+    "Q1 2024": {
+      "size": 1037,
+      "retention": [
+        0.9537,
+        0.9267,
+        0.9036,
+        0.8843,
+        0.8737,
+        0.8496,
+        0.8284,
+        0.8091,
+        0.7927,
+        0.7686,
+        0.756,
+        0.7445
+      ]
+    },
+    "Q2 2024": {
+      "size": 1157,
+      "retention": [
+        0.9602,
+        0.9386,
+        0.9006,
+        0.8859,
+        0.8773,
+        0.86,
+        0.8453,
+        0.8245,
+        0.809,
+        0.7943,
+        0.7831,
+        0.7666
+      ]
+    },
+    "Q3 2024": {
+      "size": 1142,
+      "retention": [
+        0.9615,
+        0.9378,
+        0.9212,
+        0.9054,
+        0.8914,
+        0.8722,
+        0.8511,
+        0.8354,
+        0.8205,
+        0.8074,
+        0.7898,
+        0.7715
+      ]
+    },
+    "Q4 2024": {
+      "size": 1464,
+      "retention": [
+        0.9556,
+        0.9283,
+        0.9098,
+        0.888,
+        0.8709,
+        0.8566,
+        0.8408,
+        0.8251,
+        0.8081,
+        0.7889,
+        0.7746,
+        0.7623
+      ]
+    }
+  },
+  "plans": {
+    "Basic": {
+      "customers": 1656,
+      "retained_12m": 1132,
+      "retention_rate_12m": 0.6836
+    },
+    "Standard": {
+      "customers": 1732,
+      "retained_12m": 1352,
+      "retention_rate_12m": 0.7806
+    },
+    "Premium": {
+      "customers": 1084,
+      "retained_12m": 885,
+      "retention_rate_12m": 0.8164
+    },
+    "Enterprise": {
+      "customers": 328,
+      "retained_12m": 287,
+      "retention_rate_12m": 0.875
+    }
+  },
+  "month_3_status": {
+    "Active": 3540,
+    "At risk": 823,
+    "Churned": 437
+  },
+  "month_12_status": {
+    "Active": 1903,
+    "At risk": 742,
+    "Renewed": 1011,
+    "Churned": 1144
+  }
+}
