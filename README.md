@@ -19,6 +19,24 @@ Select a signup cohort, region, segment, or plan at the top. **Every** number an
 | `scripts/build.py` | Seeded dataset generation and dashboard rebuild (Python standard library) |
 | `docs/ANALYSIS.md` | Methodology, findings, limits, recommended experiments |
 
+## 📊 Interactive Dashboard Preview
+
+<p align="center">
+  <a href="https://sajidexpertise.github.io/FUTURE_DS_02/">
+    <img src="dashboard.png"
+         alt="Retention Engine — Customer Retention and Churn Analysis Dashboard | Future Interns Task 2"
+         width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://sajidexpertise.github.io/FUTURE_DS_02/">
+      🚀 Open the Live Interactive Dashboard
+    </a>
+  </strong>
+</p>
+
 ## Rebuild
 
 ```bash
